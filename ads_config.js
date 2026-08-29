@@ -1,7 +1,7 @@
 {
   "interstitial": {
     "enabled": true,
-    "unit_id": "ca-app-pub-1669578731056928/9321485033",
+    "unit_id": "ca-app-pub-4846687440593153/3811489126",
     "interval_episodes": 4
   }
 }
